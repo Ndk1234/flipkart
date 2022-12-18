@@ -5,5 +5,9 @@
   <body>
   <input type="username">
   <input type="Password">
+    <input type="Password">
+  <input type="Password">
+  <input type="Password">
+
      </body>
 </html>
