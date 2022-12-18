@@ -3,5 +3,7 @@
             <tittle>Webpag</tittle>
      </head>
   <body>
+  <input type="username">
+  <input type="Password">
      </body>
 </html>
